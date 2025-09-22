@@ -1,5 +1,6 @@
 == On Faith and Justification
 
+[.chapter-subtitle--blurb]
 Many possess the word of truth, who have not the truth of the word.
 
 Faith is an inward conviction of the truth of things invisible and future relating to us.
@@ -46,7 +47,7 @@ commits and gives himself up to him with this faith,
 justification is inseparably connected, but God gives the assurance of his forgiveness,
 in a greater or less degree, earlier or later, as it pleases him,
 and is useful to the soul.
-It is however not only necessary to believe once, but without intermission;
+It is however not only necessary to believe once, but _without intermission;_
 we must be grounded in the faith, must be kept in the faith, through many changes,
 crosses, and trials;
 and thus our justification will become more confirmed and more glorious.
@@ -87,7 +88,7 @@ God overlooks the season of ignorance,
 (Acts 17:30 etc.) but now commands all men
 everywhere to repent and offers unto every man,
 through the resurrection of Christ, faith and justification.^
-footnote:[Marginal Reading]
+footnote:[See Marginal Reading]
 He beseeches and invites men by his messengers outwardly, and by his Spirit inwardly;
 saying, "`Be reconciled unto God!`" "`Repent and believe,
 for the kingdom of heaven is at hand!`"
@@ -248,7 +249,7 @@ at the bar of the divine good pleasure.
 Justification, commonly so called, and sanctification flow in this together,
 and attain in it their completion.
 The end of all the ways of God with fallen man, is incontrovertibly this, that God,
-through man`'s restoration may be again glorified and become All In All.
+through man`'s restoration may be again glorified and become _All In All._
 
 In the second and third justification and sanctification, man stands as guilty, ashamed,
 and utterly degraded; while on the contrary,

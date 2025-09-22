@@ -1,8 +1,11 @@
 == The Excellent Way of True Love
 
+[.chapter-subtitle--blurb]
 God is love, and he that dwells in love, dwells in God, and God in him. 1 John 4:16.
 
-I+++.+++ The Exercise of Love.
+[.alt.centered]
+=== I. The Exercise of Love.
+
 Nothing is more beautiful, pure, delightful, powerful, and perfect, than love,
 for "`God is love.`"
 There is no better way in which God can gain possession of the human heart, than by love,
@@ -68,7 +71,9 @@ may exist even in the midst of barrenness, darkness,
 and the deepest processes of purification,
 which are nothing else than the blessed effects of the pure love of God.
 
-II. Complete Resignation to Love.
+[.alt.centered]
+=== II. Complete Resignation to Love.
+
 Truly, when a sinner can attain to the art of pure love,
 so that by an entire abandonment and renunciation of himself,
 he resigns himself in sincerity to God,
@@ -119,8 +124,9 @@ in unity of heart, soul, word, and action, one spirit with the Father, Son,
 and Holy Ghost, blessed forever!
 Amen.`"
 
-III.
-On Brotherly Love.
+[.alt.centered]
+=== III. On Brotherly Love.
+
 From love to God we derive love towards the brethren, yea, even love to all men.
 The former as well as the latter is not a subject which can be taught, or learnt,
 or self-produced; both are a fruit and property of the new birth from God,

@@ -93,13 +93,16 @@ that his holy name may be honored and glorified, in a greater degree,
 by those who call themselves by that name, and profess to be his followers:
 for the sake of his well-beloved Son, our Savior!
 
-The Translator.
+[.signed-section-signature]
+Samuel Jackson
 
+[.alt.centered]
 === Letter 1
 
-May the grace of God in Jesus Christ, reign in our souls,
-through the influences of the Holy Spirit! Amen.
+[.blurb]
+==== May the grace of God in Jesus Christ, reign in our souls, through the influences of the Holy Spirit! Amen.
 
+[.salutation]
 Dearly beloved brother in the triune God, and my fellow pilgrim;
 
 The love with which the Lord has graciously united us together in him,
@@ -221,10 +224,13 @@ I was at that time acquainted, particularly N+++______+++, and all others who se
 whose names have escaped me.
 I commend myself to your prayers, and remain,
 
+[.signed-section-closing]
 Your loving brother in Jesus.
 
+[.alt.centered]
 === Letter 2
 
+[.salutation]
 Dearly beloved brother in the grace of Jesus Christ;
 
 "`We are the Lord`'s.`" From that very moment, when in sincerity of heart,
@@ -243,7 +249,7 @@ that we have committed ourselves to Jesus and the guidance of his Spirit;
 for he is our Savior.
 On our part, we have nothing more to do,
 than to abide with him according to the degree of our light and state,
-and follow him both actively and passively.
+and follow him both _actively and passively._
 
 Let your heart,
 and the thoughts and affections of your heart be turned
@@ -262,9 +268,9 @@ inclination, or inward light, which leads the soul to God, and requires no consi
 but only a simple serenity and collectedness of heart,
 not taught by it any great or particular mysteries,
 but only that one mystery--how we may die to ourselves and live unto God.
-In this way we follow the Lord in an active manner.
+In this way we follow the Lord in an _active_ manner.
 
-You follow him passively, when you receive everything that happens to you,
+You follow him _passively,_ when you receive everything that happens to you,
 on all occasions, mediately or immediately, with reference to body or soul,
 with reverence and willingness, from God himself,
 as something which is good and serviceable for you.
@@ -301,10 +307,13 @@ we ought gladly to suffer the deprivation of bodily and spiritual enjoyments!
 Everything passes away like an empty dream.
 God is our salvation, and in him we shall be eternally blessed.
 
+[.signed-section-closing]
 May Jesus live and glorify himself in you!
 
+[.alt.centered]
 === Letter 3
 
+[.salutation]
 My dear friend,
 
 The passage of scripture, which you have laid before me, "`This is life eternal,
@@ -395,10 +404,13 @@ Let us only begin below, and follow the Lamb, whithersoever he leads us.
 All will be well in the end.
 I commend my dear friend to the gracious providence of God, and remain most cordially, etc.
 
+[.signed-section-closing]
 Your affectionate friend and brother.
 
+[.alt.centered]
 === Letter 4
 
+[.salutation]
 Dearly beloved and valued friend in the grace of God;
 
 Your letter of the 27th January, afforded me pleasure; for as I have known in my degree,
@@ -488,10 +500,7 @@ Let us first extinguish the fire in our own house,
 and then we may help our neighbor--but with water.
 I cannot deny the corruptions of the external church; but I think,
 my dear friend has now more necessary things to attend
-to than to occupy himself with these.
-Within!
-Within!
-With God alone!
+to than to occupy himself with these. __Within! Within! With God alone!__
 Neither do I recommend you to separate yourself from church and sacrament.
 There is no material benefit to be derived by such a separation,
 and it has often been injurious to many.
@@ -512,8 +521,10 @@ Here I must break off,
 cordially commending my dear friend to the comforting love of Jesus, and remain,
 his sincere friend, and fellow-pilgrim.
 
+[.alt.centered]
 === Letter 5
 
+[.salutation]
 Dearly beloved brother in the grace of Jesus Christ.
 
 Your last letter of the 5th of this month, as well as the former ones,
@@ -647,10 +658,13 @@ and granted me the desire to belong entirely to him, and be willing to follow hi
 May his grace preserve this mind in us steadfast unto the end!
 In the same grace, I remain,
 
+[.signed-section-closing]
 Your affectionate friend and brother.
 
+[.alt.centered]
 === Letter 6
 
+[.salutation]
 Dearly beloved brother, in the grace of Jesus Christ.
 
 Your kind letter, of the 2nd December, as well as the former one,
@@ -750,12 +764,13 @@ I know, that like me, you are a child of Adam.
 You have not yet reached the end of this path, but your course is correct;
 and the eternal love of God only waits, that you and I let ourselves fall into its lap,
 just as we are.
-Amen.
-Let it be so!
+Amen. Let it be so!
 
+[.alt.centered]
 === Letter 7
 
-To a Noble Lady.
+[.blurb]
+==== To a Noble Lady
 
 I can easily imagine, that notwithstanding your ladyship`'s high rank,
 sufferings and vexations of various kinds will not be lacking;
@@ -795,8 +810,10 @@ who esteems all that the world can offer as loss and dung,
 in order that he may win Christ, the pearl of great price.
 Amen.
 
+[.alt.centered]
 === Letter 8
 
+[.salutation]
 Dearly beloved brother in the grace of Jesus Christ,
 
 Although I am so slow in replying to your ever welcome letters,
@@ -930,10 +947,13 @@ May our dear Redeemer himself work in us everything that is well-pleasing in his
 He is faithful and will do it.
 Pray for me, even as I do also for you, though in weakness, and remain through grace,
 
+[.signed-section-closing]
 Your obliged fellow-brother.
 
+[.alt.centered]
 === Letter 9
 
+[.salutation]
 Dearly beloved friend in the grace of God,
 
 Your short letter by a friend, I have duly received, and was gratified by it;
@@ -1010,10 +1030,13 @@ May He, our gracious Lord, who of his great mercy has called me and you to it,
 give us all that is necessary, most faithfully to follow his calling!
 Concluding with which, I remain,
 
+[.signed-section-closing]
 Your affectionate friend.
 
+[.alt.centered]
 === Letter 10
 
+[.salutation]
 Beloved brother, in the grace of Jesus,
 
 Both your letters of the 25th of January and the 22nd of May, have come to hand.
@@ -1109,10 +1132,13 @@ May Jesus bless you, my dear brother, and form you after his own heart,
 in which we continue united, though absent in body!
 I remain, through the grace of God,
 
+[.signed-section-closing]
 Your very affectionate brother.
 
+[.alt.centered]
 === Letter 11
 
+[.salutation]
 Beloved brother in the grace of God,
 
 I have lately been favored with your welcome letter by our dear friends,
@@ -1196,8 +1222,10 @@ is so close at hand and open to us, poor sinners; into this we plunge ourselves,
 and live to his free grace.
 To him be glory, forever and ever!
 
+[.alt.centered]
 === Letter 12
 
+[.salutation]
 Beloved friend and brother,
 
 I have for some time delayed replying to your agreeable letter of the 21st of March,
@@ -1231,7 +1259,7 @@ close the eyes of our minds against minor ways and minor works,
 in order that we may attend solely, in a meek and quiet spirit, to our holy vocation,
 which has been so graciously made known to us,
 and will be still further revealed in our hearts.
-It is in the heart, and not in the head,
+It is _in the heart,_ and not in the head,
 that the attracting and collecting love will cause itself to be felt more and more efficaciously:
 whose salutary doctrines of the profoundest renunciation of all things,
 of self-denial and self-contempt, of attachment to his cross,
@@ -1256,10 +1284,13 @@ and I hope likewise, that our acquaintance in the Lord will not be without a ble
 God be praised for all the mercy he has shown to you, my dear brother!
 Let us love him; for he has first loved us!
 
+[.alt.centered]
 === Letter 13
 
-To a Noble Lady.
+[.blurb]
+==== To a Noble Lady.
 
+[.salutation]
 Beloved sister, according to the high vocation of grace,
 
 Although I am weak and faint as it respects the body,
@@ -1316,10 +1347,13 @@ I will not offer any apology; I write with simplicity as it flows from the pen.
 I desire again to salute your ladyship and all your noble family in the name of Jesus,
 and remain through grace,
 
+[.signed-section-closing]
 Your ladyship`'s weak fellow servant in the Lord.
 
+[.alt.centered]
 === Letter 14
 
+[.salutation]
 Dearly beloved brother, in the grace of Jesus,
 
 I will see if I have time and ability to write a few words in answer to your question,
@@ -1350,15 +1384,15 @@ I might also with propriety call, believing in Jesus; for the Father draws us to
 But faith in Christ has its gradations.
 In the beginning it is a "`Coming to Jesus,`" (John 6:35); that is,
 with hunger and desire, just as I have said respecting the drawing of the Father.
-It is afterwards a receiving of Jesus (John 1:12), which cannot take place,
+It is afterwards a _receiving of Jesus_ (John 1:12), which cannot take place,
 unless the sincere will of the soul lets go at once the world, sin, and self.
-In advancing, faith is an abiding in Jesus (John 15), with a fervent inclination,
+In advancing, faith is an _abiding in Jesus_ (John 15), with a fervent inclination,
 otherwise called retiring, within, or cleaving to him (1 Cor. 6:17),
 and thus by abiding and walking in Jesus,
 we are increasingly rooted and grounded in him (Col. 2:7), which, however,
 is not accomplished without afflictions and trials.
 Faith is, finally, a dwelling of Christ in the soul,
-and of the soul in Christ (Eph. 3:17; John 17:23), and becoming one with him.
+and of the soul in Christ (Eph. 3:17; John 17:23), and _becoming one with him._
 By referring to, and considering the passages quoted,
 you may perhaps attain more light on the subject.
 
@@ -1388,7 +1422,7 @@ Your question respecting free will, is equivocal.
 By a free will, is generally understood, a will to will what is good,
 and an ability to do what is good; and in this sense, no one has by nature a free will.
 But if by it be understood the voluntary direction of the will,
-freely to choose the good or evil that is presented to it; not only has every man,
+freely to choose the good or evil that _is presented to it;_ not only has every man,
 in this sense, a free will, but also the devil himself.
 But on the one hand, man possesses naturally, neither light, nor anything,
 to which his will might be able to turn itself;
@@ -1397,7 +1431,7 @@ but it is neither able nor willing to depart from it.
 The light, it is true, now shines through Christ; and when it offers itself to anyone,
 his will is then free to open the window of his heart, or not.
 And on the other hand, man is not able to do this by nature, but through the mercy of God.
-He can do it, but will not, because the light gives him pain, and on that account,
+He _can_ do it, but will not, because the light gives him pain, and on that account,
 he hates it.
 God, therefore, not only offers light and grace,
 but likewise gives a good impulse and inclination to the will,
@@ -1465,10 +1499,13 @@ The Lord bless and strengthen you, particularly in the inward man!
 Remember me also.
 I remain,
 
+[.signed-section-closing]
 Yours in weakness,
 
+[.alt.centered]
 === Letter 15
 
+[.salutation]
 To +++______+++,
 
 It is more and more apparent to me, that God loves your soul,
@@ -1528,14 +1565,16 @@ that his old age may be in this life, an infancy and commencement of an eternal 
 Amen.
 Jesus!
 
+[.alt.centered]
 === Letter 16.
 
+[.salutation]
 Very dear and much esteemed sister in the grace of God,
 
 Both your letters have arrived safe.
 From their contents, I have learned and considered, with much compassion,
 your afflicted and tempted state, and have spread your case before the Lord.
-He, the Lord, can help you; you must not expect assistance from yourself,
+__He,__ the Lord, can help you; you must not expect assistance from yourself,
 nor from any other creature, nor from any particular object, but from him alone.
 I confess, your trials are severe and painful; but preserve your courage,
 cast not away your confidence.
@@ -1585,7 +1624,7 @@ This would be such a benefit to you, as would recompense your stumbling tenfold;
 and the Lord has this in view, and expects it from you,
 it being his intention to lead you into such a discovery and confession.
 
-Learn from hence, that your happiness or unhappiness does not depend upon the house,
+Learn from hence, that your happiness or unhappiness does not depend upon _the house,_
 but upon the state of your mind.
 When it is well within, all is well.
 You must have too good an opinion of yourself,
@@ -1683,10 +1722,13 @@ and that he may make you acquainted with himself, in order that you may love him
 and unreservedly commit yourself to him!
 Amen.
 
+[.signed-section-closing]
 I salute you with fraternal affection, and remain through grace.
 
+[.alt.centered]
 === Letter 17
 
+[.salutation]
 Dearly beloved brother,
 
 In the supposition that you are still at N+++______+++, I write these few lines, in haste,
@@ -1716,9 +1758,9 @@ and self-love is certainly the cause of it.
 But why are you so astonished at the discovery?
 Did you not know that you were a self-loving child of Adam, like myself and others?
 Ought we to be melancholy on making such a discovery,
-or rather ought we not to strike up a Te Deum laudamus,
+or rather ought we not to strike up a _Te Deum laudamus,_
 that the Lord has granted us such a special favor, as the knowledge of ourselves?
-No one can more cheerfully chant a Te Deum, than he who knows and despises himself.
+No one can more cheerfully chant a _Te Deum,_ than he who knows and despises himself.
 
 You say, in your last, that the pain on account of what you have done,
 is still very poignant.
@@ -1737,8 +1779,10 @@ Let this be the subject on which we meditate, of which we speak and sing,
 and in which alone we rejoice.
 Amen!
 
+[.alt.centered]
 === Letter 18
 
+[.salutation]
 Much esteemed and dearly beloved sister in Jesus, whose Spirit be with your spirit!
 
 I have duly received your very welcome letter, and have perused with much union of heart,
@@ -1770,7 +1814,8 @@ and the Spirit of God employs, throughout the Bible, such inducements as these,
 because fallen man is incapable and unsusceptible of any other.
 And not only so, but I well remember to have read,
 // lint-disable invalid-characters
-what you may now find in Bernière`'s Hidden Life, that we ought not to desire perfection,
+what you may now find in [.book-title]#Bernière`'s Hidden Life,# that
+we ought not to desire perfection,
 because it is such an exalted state,
 but because it is the will of God that we should attain to it.
 It is now nearly thirty years since I read this in French,
@@ -1806,10 +1851,13 @@ and presenting you as a living sacrifice to the Lord in his presence.
 Be He your life, your peace, your all, in every inward and outward circumstance!
 I remain through grace,
 
+[.signed-section-closing]
 In tender affection, your obliged brother.
 
+[.alt.centered]
 === Letter 19
 
+[.salutation]
 Dearly beloved brother in the grace of Jesus,
 
 Although we correspond but little by letter, yet I can say in simplicity before God,
@@ -1965,10 +2013,13 @@ Amen.
 I continue in a weak state, and but little able to write,
 and this weakness now tells me to break off.
 
+[.signed-section-closing]
 I remain, through grace, etc.
 
+[.alt.centered]
 === Letter 20
 
+[.salutation]
 Dearly beloved sister in Jesus, the crucified and exalted Redeemer,
 
 I have for some days past,
@@ -2095,13 +2146,13 @@ which say, "`wherewithal that a man sins, therewith shall he be punished.`"
 Rom. 8:3). You are also perhaps acquainted with
 the lines I wrote some time ago upon this subject:
 
+[verse]
+____
 I once committed sin, with pleasure and with lust,
-
 But now must suffer sin with sorrow and disgust;
-
 This suffering is wholesome--but what grievous pain,
-
 When sin, by sin within us, is condemn`'d and slain!
+____
 
 But that you think you will fall into sin every moment,
 arises partly from the darkness which at present covers your path,
@@ -2134,7 +2185,7 @@ Banish all care regarding yourself, so that you would no longer look after yours
 although you knew, that by acting thus, you would sink into hell;
 for of what value are you?
 And what is it that depends upon you?
-Consent to everything except to sin.
+_Consent to everything except to sin._
 
 If it occur to your mind, that you are at present,
 or may become the ridicule and scorn of all men and of evil spirits,
@@ -2306,14 +2357,23 @@ that this letter will be neither disagreeable nor hurtful to you.
 Be only patient and courageous, in God`'s name, dear sister, in loving and in suffering;
 and whatever may happen, through divine grace, I am, and will remain,
 
+[.signed-section-closing]
 Your affectionate brother in Jesus, and companion in tribulation in Christ.
+
+[.postscript]
+====
 
 P.S. Keep this letter to yourself, because it may be of little advantage to your friends.
 
+====
+
+[.alt.centered]
 === Letter 21
 
-To the same.
+[.blurb]
+==== To the same.
 
+[.salutation]
 May the once crucified but now exalted Jesus bless you, my much loved sister in Christ!
 
 I have read your letter with feelings of devotion,
@@ -2422,7 +2482,7 @@ And thus the Lord knows how to preserve that which is his own in you; everything
 must be offered up--life and health, body and soul, enjoyment, relish, gifts,
 and virtues, and even the darling image of holiness itself.
 
-I say you are a sacrifice to the justice and love of God, and not to his wrath;
+I say you are a sacrifice to the _justice_ and _love_ of God, and not to his _wrath;_
 it shall not come upon you, as you sometimes write.
 The wrath of God, properly speaking, is only poured out upon the wicked;
 it is his justice, mingled with love, that purifies his children.
@@ -2432,7 +2492,7 @@ for it is thus that we are described in the prophet Ezekiel.
 
 Possess yourself, as much as possible in patience.
 The bitter cup of affliction will soon be drunk up.
-You please God, when you suffer for his sake.
+_You please God, when you suffer for his sake._
 Is not this a sufficient reason to fortify yourself in patience?
 Yes, I thank God, with my whole heart, that he has called you,
 and deigned to take you so strictly into his correction, in order that through suffering,
@@ -2470,10 +2530,13 @@ God will give us grace to be mindful of each other.
 
 Be of good courage, my sister, and love Jesus and his cross, in whom I am,
 
+[.signed-section-closing]
 Your affectionate fellow-laborer and brother.
 
+[.alt.centered]
 === Letter 22
 
+[.salutation]
 Dearly beloved brother in the grace of Jesus;
 
 I have before me your favor of the 9th of March,
@@ -2490,21 +2553,35 @@ I am now able to say,
 that we must look chiefly unto God and forget ourselves in a sevenfold manner,
 and experience teaches every time, although with a remarkable difference,
 how by so doing every virtue and every good is produced.
-We do so,
+We do so:
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ In a way of seeking.
 
+[.numbered]
 II. In a way of feeling.
 
+[.numbered]
 III. Experimentally.
 
+[.numbered]
 IV. In simplicity.
 
+[.numbered]
 V+++.+++ By contemplation.
 
+[.numbered]
 VI. By resignation.
 
-VII. Essentially--according to everyone`'s particular state and the divine guidance;
+[.numbered]
+VII. Essentially.
+
+====
+
+According to everyone`'s particular state and the divine guidance;
 for everyone must act according to his state, and the manner in which he is led,
 without being concerned whether his state be high or low;
 because that particular state to which God destines us, is for us the most perfect.
@@ -2641,7 +2718,7 @@ in order that it may unite itself with God, and keep near unto him.
 The soul has therefore nothing else to do in this state, but to follow, in simplicity,
 this inward drawing and central inclination, and cleave by it unto God,
 seek to continue collected in his presence, and with a meek and simple believing eye,
-look only unto him, and not unto herself; and thus,
+__look only unto him, and not unto herself;__ and thus,
 by means of this simple state of inward collectedness,
 the soul will be best preserved from all evil, become the recipient of radical virtues,
 and be made capable of a real union with God, and of receiving innumerable blessings.
@@ -2755,10 +2832,13 @@ but everything from his infinite goodness.
 Amen.
 May he himself perform it!
 
+[.signed-section-closing]
 Remember me as your weak brother.
 
+[.alt.centered]
 === Letter 23
 
+[.salutation]
 Beloved brethren, sisters, and friends, in the grace of God,
 whose names, I pray, may be found written in the book of life.
 
@@ -2937,7 +3017,7 @@ by the inward acquaintance with him, who has called us to this glory! (2 Peter 1
 Therefore, my fellow-called,
 if we are desirous of being thoroughly redeemed and sanctified, of living peacefully,
 and dying happily,
-we must become inhabitants of our own hearts and fellow-inmates with God,
+we must become _inhabitants of our own hearts and fellow-inmates with God,_
 Jesus has opened to us this new and living way in his blood, so that eternal love,
 with its attractions and influences, can now approach very near to us,
 and we can draw near unto God in our hearts, with childlike confidence,
@@ -3037,21 +3117,24 @@ as of themselves, in delightful unanimity and unity.
 In this way, eternal love would delight to dwell among us, and to bless us,
 as the dew that falls from Hermon upon the mountains of Zion;
 and we should ever more deeply experience the unknown blessings,
-which are to be enjoyed in the true fellowship of the saints.
+which are to be _enjoyed in the true fellowship of the saints._
 Seeing that we have cast out the world, and the world has cast us out,
 let us therefore give each other the hand; and as real strangers and pilgrims,
 brotherly and courageously go forward, in one mind and spirit,
 to the happy land of inward and eternal fellowship with God in Christ Jesus.
 Faithful is he that has called us, who also will do it!
 
+[.signed-section-closing]
 In him I remain, through grace, etc.
 
-// lint-disable invalid-characters
-Mülheim, 30th September, 1734.
+[.signed-section-context-close]
+Mulheim, 30th September, 1734.
 
+[.alt.centered]
 === Letter 24
 
-The Author`'s Ideas Respecting Marriage.
+[.blurb]
+==== The Author`'s Ideas Respecting Marriage.
 
 Although with regard to marriage I am inexperienced,
 and have no particular insight or revelation respecting it, yet at your request,
@@ -3156,10 +3239,13 @@ and lastly, that it is a state, which does not accompany them into the next worl
 but terminates with the present.
 (Matt. 22:30)
 
+[.alt.centered]
 === Letter 25
 
-Christian advice to a person who had many doubts and scruples in her mind respecting marriage.
+[.blurb]
+==== Christian advice to a person who had many doubts and scruples in her mind respecting marriage.
 
+[.salutation]
 Dearly beloved friend and sister in Christ,
 
 You have requested me to write to you something respecting
@@ -3244,9 +3330,11 @@ and you shall experience peace and blessedness, wherever,
 and in whatever state you may be, both now and forever.
 Amen!
 
+[.alt.centered]
 === Letter 26
 
-To the awakened inhabitants of the town of Meurs.
+[.blurb]
+==== To the awakened inhabitants of the town of Meurs.
 
 Your wish to make me acquainted with your names,
 and the desire of your hearts to belong entirely to the Lord,
@@ -3342,11 +3430,14 @@ So let it be!
 With this wish, I salute you collectively and individually before his face,
 and remain through grace,
 
+[.signed-section-closing]
 Your faithful, weak, and obliged brother.
 
+[.alt.centered]
 === Letter 27
 
-A warning admonition against the snares and temptations of the enemy of souls.
+[.blurb]
+==== A warning admonition against the snares and temptations of the enemy of souls.
 
 1+++.+++ Let us love, and esteem, and use the Holy Scriptures or the Bible,
 according to the state and circumstances of our souls.
@@ -3438,15 +3529,19 @@ Little children, let no man deceive you.
 He that does righteousness is righteous, even as he is righteous.`"
 (1 John 3:5-7)
 
+[.alt.centered]
 === Letter 28
 
-A Letter of encouragement addressed to a few awakened individuals,
-in the prospect of danger from persecution.
+[.blurb]
+==== A Letter of encouragement addressed to a few awakened individuals, in the prospect of danger from persecution.
 
-"`Fear not, little flock,
-for it is your Father`'s good pleasure to give you the kingdom.`"
+[.centered]
+__"`Fear not, little flock, for it is your Father`'s good pleasure to give you the kingdom.`"__
+
+[.salutation]
 Beloved brethren in the grace of God,
-is it not stated in the covenant which we have established with the Lord Jesus,
+
+Is it not stated in the covenant which we have established with the Lord Jesus,
 my dearly beloved! that he shall give us the kingdom in the same manner,
 as his Father gave it to him?
 that is, that through much inward and outward tribulation,
@@ -3572,6 +3667,8 @@ Be strong in the Lord.
 The Lord of Hosts is with us, the God of Jacob is our refuge!
 Selah.
 
+[.signed-section-closing]
 In his grace I remain,
 
+[.signed-section-signature]
 Your humble brother and servant.

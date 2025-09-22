@@ -1,9 +1,9 @@
 == On the Difference of Progress in Godliness
 
-Many are called, but few are chosen.
--Matt. 20:16.
+[.blurb]
+=== "`Many are called, but few are chosen.`" Matthew 20:16.
 
-=== I.
+=== I. The Difference
 
 Although God has no occasion for our worship, nor stands in need of any,
 (Acts 17:25) it is his eternally immutable purpose and gracious will
@@ -44,7 +44,7 @@ declension from the first love and power;
 since the most of them stop short at some beginnings of Christianity,
 without seriously endeavoring to advance continually; and hence they lead a feebler,
 more common, and if I may so express myself,
-more external life in the sight of God and man; but others,
+more _external_ life in the sight of God and man; but others,
 and those the fewest in number, have gone forward faithfully,
 and have been drawn and led by the grace of God to something more substantial and inward;
 in consequence of which they are diligent in leading a more holy, strict,
@@ -204,12 +204,12 @@ and beginnings of christianity, so that all advancement is forgotten over it,
 and the true inward fruit of christianity, never known, nor its blessedness,
 in fervent fellowship with God, enjoyed?
 
-=== II.
+=== II. The Transition to a Better State
 
 There are, however, God be praised, still some to be met with, here and there,
 in the present day,
 who find no rest nor satisfaction in such a mere beginning and mixed state;
-but are desirous, with the young ruler, mentioned in the gospel, of becoming perfect,
+but are desirous, with the young ruler, mentioned in the gospel, of becoming _perfect,_
 (to use the words of the Lord Jesus,) and to this end devote and
 dedicate themselves in a particular manner to the Lord Jesus,
 to be his true followers; who by his grace, are also diligent in the practice of a real,
@@ -407,8 +407,8 @@ were evidently such a chosen generation and royal priesthood, such a peculiar pe
 and godly life; as might be sufficiently demonstrated from the writings of the apostles,
 and the testimonies of the primitive fathers.
 But my limits do not allow me to enlarge upon this point,
-and therefore I refer the reader to Arnold`'s Delineation of the Primitive Christians,
-and especially to his True Representation of the Inward Christianity of the Ancients,
+and therefore I refer the reader to [.book-title]#Arnold`'s Delineation of the Primitive Christians,#
+and especially to his [.book-title]#True Representation of the Inward Christianity of the Ancients,#
 where numerous proofs of it may be met with.
 
 But by degrees, the first love and zeal of many, and in time, of the greater part,
@@ -451,11 +451,11 @@ Apol. 2.
 Another shortly after him, wrote openly as follows:
 "`There are many among us, both men and women, who grow old in a single life;
 because they hope in such a state to be nearer to God.`"
-Athenag. Apol. page 36.
+__Athenag. Apol.__ page 36.
 And Augustine says, "`It is now scarcely a matter of surprise,
 that so many young men and women despise marriage and live in chastity.`"
 // lint-disable scan-errors
-De ver. Relig. Cap. 3. See also Arnold`'s Delineation, sec, 5. cap. 5.]
+De ver. Relig. Cap. 3. See also __Arnold`'s Delineation,__ sec, 5. cap. 5.]
 there were likewise those who are generally called
 "`Ascetics,`" or such as exercise themselves in godliness,
 who being desirous, according to the admonition of the Lord Jesus,
@@ -494,11 +494,8 @@ and others, and particularly in the writings of Macarius, Ephraim, Syrus, Nilus,
 and also of Cassian, Climacus, etc.]
 And even in the succeeding wretched times,
 God has always had his "`hidden ones,`" (1 Kings 19:18;
-Ps. 83:3) as may be seen by reference to the Catal.
-Testim.
-Veritatis, and in other books, such as Arnold`'s Theol.
-Myst.
-Cap. 16-17.
+Ps. 83:3) as may be seen by reference to the __Catal. Testim.
+Veritatis,__ and in other books, such as [.book-title]#Arnold`'s Theol. Myst.# Cap. 16-17.
 
 Among those elect and God devoted souls are also particularly to be reckoned
 those who are generally called "`Mystics`" (that is secret or hidden) whose writings,
@@ -524,9 +521,7 @@ for a soul that is seeking after God,
 is to be found in a single page of the true mystic writings,
 than is often contained in many folio volumes of weak and watery school divinity,
 as enlightened divines among the protestants themselves concur in testifying.^
-footnote:[Vide Godfried Arnoldi Histor. Theol. Myst.
-// lint-disable invalid-characters
-Cap. 8. 38. Sophiæ prefat. No. 7.]
+footnote:[Vide Godfried Arnoldi Histor. Theol. Myst. Cap. 8. 38. Sophia prefat. No. 7.]
 But why is it that such valuable works are generally so little esteemed and used?
 Is it not because an inquisitive curiosity does not find food in them,
 and that the nature of the old man and the life of self is too severely attacked,
@@ -539,20 +534,14 @@ I again turn myself to those select souls,
 who feel themselves called to this inward and stricter hidden life.^
 footnote:[See among the Reformed writers, Voetium de Exer.
 Piet. et in Ascetes. Lodenstein Beschauu. Zions.
-// lint-disable invalid-characters
-page 39 et seq+++.+++, Franc Rous Interiora Regni Dei, J. de la Roque dernières heures,
-// lint-disable invalid-characters
-page 63., Poiret de Eruditione ejusd. Æconomiam Divinam, etc.
+page 39 et seq+++.+++, Franc Rous Interiora Regni Dei, J. de la Roque dernieres heures,
+page 63., Poiret de Eruditione ejusd. Economiam Divinam, etc.
 And among the Lutherans, Lutherum, Joh. Arndt, Varenius, Hoburg.
-// lint-disable invalid-characters
-Jac. Speneri Præf. in Taulerum. Arnoldi Myst.
+Jac. Speneri Praf. in Taulerum. Arnoldi Myst.
 Theol+++.+++, Weismanni Introduct. in H. E. part 2. page 555 et seq+++.+++,
 Aletophili Myst. Theol.]
 
-=== III.
-
-A Particular Address to those select souls,
-who have resigned themselves to God and his inwardly hidden life.
+=== III. A Particular Address to those select souls, who have resigned themselves to God and his inwardly hidden life.
 
 To you, you elect and beloved souls,
 you devout Nazarenes--to you my dearest brethren and sisters,
@@ -566,10 +555,10 @@ the pleasant and noble scions and children of praise and honor,
 (of Christ and his church,) a whole and unconsumed work, an image of God,
 according to the likeness of the holiness of the Lord Jesus,
 the most excellent of the flock of Christ.`"
-// lint-disable invalid-characters
-The learned Sandæus, in his Præfat. Theol. Myst.
+The learned Sandaus, in his Prafat. Theol. Myst.
 borrows these appellations, and applies them,
-not improperly to the Mystics.]--to you in particular, I have still to address, in love,
+not improperly to the Mystics.]
+to you in particular, I have still to address, in love,
 a word of admonition and incitement on the present occasion.
 For although some of you even already possess the Spirit of unction,
 (1 John 2:27) which leads you into all truth; yet the wisdom that is from above,
@@ -703,7 +692,7 @@ by which the mind is stripped of all freedom, peace, and liberty of spirit.
 Our conduct, walk, words, and gestures,
 as well as the thoughts and disposition of the heart, must be judged and weighed,
 not by men, who only see the outside, but by the purest light of God.
-We must not seek to appear holy, but to be holy, and that in the eyes of God alone,
+We must not seek to appear holy, but to _be_ holy, and that in the eyes of God alone,
 who searches the heart and the mind.
 We must keep our inmost souls constantly naked and open to the rays of this eternal sun,
 that we may walk in simplicity and purity, and in truth and righteousness.
@@ -730,7 +719,7 @@ What have we then, that has not been given us?
 If we have become holy and happy, it is by grace and not of ourselves,
 it is the gift of God.
 (Eph. 2:8) What have we then to boast of?
-If there be anything good in us, it is not of us,
+If there be anything good _in us,_ it is not _of us,_
 nor is it ours--it is and remains God`'s property,
 who has it in his power to take his own back again.
 
@@ -807,7 +796,7 @@ have in reality more highly esteemed and gloried in the merits of Jesus Christ,
 as our atonement and justification, than perhaps many of their accusers.
 
 But let us, you elect souls, meanwhile acknowledge with humble thankfulness,
-that if we had no Jesus for us, we should never have had a Jesus in us.
+that if we had no Jesus _for_ us, we should never have had a Jesus _in_ us.
 And if we should ever be exalted to the state of the most
 elevated and purest contemplation of the Deity,
 whether in this life or the next,

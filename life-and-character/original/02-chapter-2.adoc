@@ -1,4 +1,4 @@
-== Preface to the Third Edition. 1837
+== Preface to the Third Edition, 1837
 
 It is a very general and prevailing sentiment among christians in the present day,
 that we are on the verge of mighty changes both in the outward and visible world,
@@ -60,4 +60,5 @@ that the number of those is increasing,
 who are desirous of treading the paths of the inward life,
 and also as a pledge of the rising of a better and brighter day.
 
---Samuel Jackson, 1837
+[.signed-section-signature]
+Samuel Jackson, 1837

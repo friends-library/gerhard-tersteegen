@@ -1,10 +1,8 @@
-== Short Instructions
+[#chap9, short="Short Instructions"]
+== Short Instructions Concerning How to Seek God and the Light of His Countenance.
 
-How to Seek God and the Light of His Countenance.
-
-They looked unto him and were enlightened, and their faces were not ashamed. Ps. 34:5.
-
-Short Instructions.
+[.blurb]
+=== They looked unto him and were enlightened, and their faces were not ashamed. Ps. 34:5.
 
 O man, even you that reads this, stand still awhile,
 and seriously consider the noble end for which you were created,
@@ -143,8 +141,10 @@ and also more and more capable of substantially finding
 this all-sufficient and most amiable Good,
 and of beholding his beatifying countenance.
 
-In reference to which, I would add the following important remarks.
-First.
+[.offset]
+__In reference to which, I would add the following important remarks.__
+
+_First._
 That because external objects and occupations,
 particularly as long as we are not well versed and established in this exercise,
 occasion much distraction, and hinder the mind in it more or less,
@@ -155,7 +155,7 @@ for recollecting ourselves in the presence of God,
 and for entering into the requisite state of mind, by the assistance of his grace;
 everyone according as his state and outward circumstances will permit.
 
-Secondly.
+_Secondly._
 We must above all things believe and be firmly persuaded,
 that all depends upon the mercy of God, and not upon our willing or running.
 (Rom. 9:16) Therefore we must not expect to find and see God by our own diligence,
