@@ -1,10 +1,11 @@
 [short="True Wisdom"]
 == True Wisdom, or Communion with God and Ourselves Alone
 
-Think that God and yourself are alone in the world;
-and so shall you possess great peace of heart.
-Thomas a Kempis, Cap. 7.
+[.chapter-subtitle--blurb]
+"`Think that God and yourself are alone in the world;
+and so shall you possess great peace of heart.`" --Thomas a Kempis
 
+[.alt.centered]
 === True Wisdom
 
 I+++.+++ Nothing is by nature more unknown to us than God and ourselves;
@@ -89,10 +90,7 @@ needless opinions, external events, and a variety of minor sciences,
 which are of no avail with regard to the principal thing.
 In other respects true learning and the learned, who are at the same time pious, meek,
 and lowly of heart, are to be highly esteemed.
-{footnote-paragraph-split}
-See Kempis,
-book I. cap.
-2 and 3.]
+See Kempis, book I. cap. 2 and 3.]
 even those among them,
 who take the precedence of others in their application
 to the study of spiritual and divine things,
@@ -142,16 +140,19 @@ lament their folly in having spent the valuable time of
 their short life in so many needless and childish things,
 and in having disturbed and consumed their noble mental powers by them,
 which were given us of God, for higher objects.^
-footnote:[Of this, the learned Hugo Grotius is an example, who on his death bed,
+footnote:[Of this, the learned Hugo Grotius is an example,
+who though a towering figure in philosophy, political theory,
+law and associated fields during the seventeenth century, on his death bed,
 exclaimed, "`I have spent all my life in ingeniously trifling!`"
-Note of the translator.]
+His last words were purported to be, "`By understanding many things,
+I have accomplished nothing.`" --Note of the Editor.]
 Would to God, that they would at length become wise,
 and penitentially seek again to forget what they have learnt, with so much loss of time,
 in order to know nothing but Christ and him crucified.
 
 But to come a little closer to the point.
 How far and estranged from God and their own hearts are, for the most part,
-even those who are called!
+even those who are _called!_
 How ill do we keep watch over our own hearts!
 How little do we remain at home, to converse with God and ourselves,
 and forsaking everything else, make this our sole, our constant,
@@ -205,7 +206,7 @@ practice a variety of outward means and external devotions.
 They pray, they hear, they read, they meditate, they associate with good people,
 and the like; which would all be good and profitable,
 if such exercises were only employed in a proper manner, and to a proper end.
-But many lay so much stress upon the means, that they lose sight of the end,
+But many lay so much stress upon the _means,_ that they lose sight of the _end,_
 and entirely neglect it;
 and although God has ordained and granted us such an excellent guide,
 that by its means we might be brought back from dissipating
@@ -280,7 +281,10 @@ if every reader regarded and used them as if they concerned him,
 and were intended for himself alone; in acting thus,
 it would certainly be well with us all.
 
-II. Therefore bid eternally farewell, O my soul, and you that read this,
+[.alt.centered]
+=== II. Counsel for the Soul
+
+Therefore bid eternally farewell, O my soul, and you that read this,
 to the vanities of this world, which in a little while, shall vanish like a dream.
 
 All that the world can offer you is not worthy of a single look.
@@ -371,7 +375,7 @@ shall the immutably all-sufficient God be to you in your heart.
 For the sake of his love, deny your own will, your self-love,
 and self-complacency in all things; in short, deny yourself wherever you find yourself.
 
-And O how much of this self will you find,
+And O how much of this _self_ will you find,
 when you have accustomed yourself to remain near yourself, and near your God!
 
 Do not pay much attention to your body; it is of no value; the food of worms;
@@ -501,7 +505,7 @@ do not however stop at others, but strive yourself to be good also.
 
 Love those likewise, who do not walk in all things as you do;
 let everyone go his own way; what is that to you?
-Follow Jesus.
+_Follow Jesus._
 
 Think no ill of your brother, judge not, be not hasty,
 put the best construction upon everything.
@@ -559,7 +563,9 @@ and as his life here was hid with Christ in God, so when Christ his life shall a
 he also shall appear with him in glory.
 (Col. 3:3-4)
 
-III.
+[.alt.centered]
+=== III. The Example of Christ
+
 He that contemplates with a devout and tranquil mind,
 the life and conduct of Jesus Christ, from the manger to his death on the cross,
 will find impressed and expressed in it the steps which we are to follow,

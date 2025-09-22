@@ -1,14 +1,13 @@
 [short="The Constraining Love of Christ"]
 == A Sermon on the Constraining Love of Christ
 
-// lint-disable invalid-characters
-Preached at Mühlheim, on the Rhur, 14th October, 1751.
+[.chapter-subtitle--blurb]
+Preached at Muhlheim, on the Rhur, 14th October, 1751.
 
-Sermon.
+[.blurb]
+=== "`The love of Christ constrains us.`" --2 Cor. 5:14.
 
-The love of Christ constrains us.
--2 Cor. 5:14.
-
+[.salutation]
 My dear hearers,
 
 If we are desirous of seeing a true representation of ourselves,
@@ -31,7 +30,7 @@ And among this multitude of dead bones, we should find ourselves likewise,
 so long as we continue in our natural state.
 
 These bones could not appear to Ezekiel more miserable, dry, and wretched,
-than the aspect which our hearts present, as long as we cleave to the earth,
+than the aspect which _our_ hearts present, as long as we cleave to the earth,
 devoid of and estranged from the life which is from God,
 and destitute of the vital power of godliness.
 Who could have thought, while contemplating these dry bones, which the prophet beheld,
@@ -184,14 +183,22 @@ and inquire how these people were able to do such great things,
 to suffer so much and to live in the manner they did, the holy apostle Paul,
 in the name of them all,`' answers in the words of our text,
 
+[.centered]
 "`The love of Christ constrains us.`"--2 Cor. 5:14.
 
 According to the direction given us in these divinely inspired words, let us,
 with the divine assistance, consider on the present occasion,
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ The love of Jesus Christ; and
 
+[.numbered]
 II. Its divine power.
+
+====
 
 "`O most blessed Savior! behold your servant will
 now venture to testify of your wondrous love,
@@ -200,6 +207,8 @@ Draw near to my heart, and inflame it;
 touch my uncircumcised lips with a burning coal from your altar,
 that I may not speak of your ardent love in a cold or feeble manner!
 Amen.`"
+
+=== The Love of Jesus Christ
 
 It has not pleased the Holy Spirit to indicate more clearly,
 whether by the "`love of Christ`" in the words of our text,
@@ -214,14 +223,9 @@ than that with which he has loved us, both in tine and in eternity.
 It is Christ who makes the commencement in loving; therefore in our present meditation,
 we must also begin with considering his love to us.
 
-1+++.+++ Christ loves us with a love surpassing the most
-faithful and fervent affection of a friend.
-
-2+++.+++ Christ loves us, and loves us voluntarily, with a most compassionate, attentive,
-and unwearied maternal love.
-
-3+++.+++ Christ loves us, and loves us voluntarily, with the most tender, ardent,
-and felicitating love of a bridegroom.
+[.offset]
+__1+++.+++ Christ loves us with a love surpassing the most
+faithful and fervent affection of a friend.__
 
 Christ loves us with a love surpassing the most faithful
 and most fervent love of a friend.
@@ -301,11 +305,10 @@ O yes, solely for me, and solely for you!--thus we ought to view the subject,
 in order to behold it to the most advantage;
 and it is thus that Christ loves everyone with a particular affection.
 
-[.asterism]
-'''
+[.offset]
+__2+++.+++ Christ loves us, and loves us voluntarily, with a most compassionate, attentive,
+and unwearied maternal love.__
 
-I said, secondly, that Christ loves us, and loves us voluntarily,
-with the most compassionate, attentive, and unwearied maternal affection.
 When an infant is sick, or falls down and hurts itself, and lies weeping and in pain,
 before its mother`'s eyes--instead of hating it on account of its pitiable state,
 she regards the poor babe with heartfelt compassion, and seeks, in every possible manner,
@@ -391,8 +394,9 @@ O my dear hearers! this has reference both to you and me; ought we not, therefor
 to commit ourselves, body and soul, to Christ`'s maternal love and care,
 both for time and eternity?
 
-[.asterism]
-'''
+[.offset]
+__3+++.+++ Christ loves us, and loves us voluntarily, with the most tender, ardent,
+and felicitating love of a bridegroom.__
 
 Christ loves us also, and loves us voluntarily, with the most tender, ardent,
 and transporting love of a bridegroom.
@@ -465,6 +469,8 @@ O that there should be such a God, such a Christ, a Christ that bears such love 
 and that there should be such a love of Christ, and yet be so little known, experienced,
 and enjoyed, and that too by so few!
 
+=== The Divine Power of Love
+
 How often do men repeat the words,
 "`Dear Lord! dear Savior!`" but ah! how are their hearts inclined towards him?
 What have our hearts experienced of the power of this love of Christ?
@@ -502,7 +508,7 @@ otherwise, notwithstanding all our speaking and hearing of the love of Christ,
 we continue in a state of spiritual darkness and wretchedness.
 
 Christ undoubtedly makes the beginning by first loving us.
-When, for instance, the love of Christ urges a man to repentance,
+When, for instance, _the love of Christ urges a man to repentance,_
 the Spirit of love then reproves him for his unrighteousness,
 convinces him of the necessity of repentance and conversion,
 alarms him on account of his sins, and the dangerous state of his soul.
@@ -580,7 +586,7 @@ profoundly into this open abyss of the eternal mercy and love of Christ.
 It is thus that we ought to let the love of Christ constrain us to repentance,
 and through repentance to love; it will then assuredly follow eventually,
 that the love of Christ will cover the multitude of sins, so that afterwards,
-the individual is ashamed, as the prophet expresses it,
+the individual _is ashamed,_ as the prophet expresses it,
 (Isaiah 16:63) with humble thankfulness and confusion,
 when the Lord thus forgives him all his sins, and repays them, as it were,
 solely with his love; and then it likewise happens, that they,
@@ -663,7 +669,7 @@ When the soul`'s constant exclamation is, "`I must do this,
 or perish eternally;`" and when she thus falls upon self-denial without Christ,
 in her own strength, ah,
 such a life is indeed wearisome! but this must be also known by experience.
-It is true, we must, otherwise we shall be lost;
+It is true, _we must,_ otherwise we shall be lost;
 but is it not already a part of condemnation, to be always acting from compulsion,
 and never from a willing heart?
 to be always compelled, and never be able to perform?
@@ -1062,7 +1068,7 @@ As sure as these words are addressed to you,
 so sure is the compassionate love of Christ busy with your hearts,
 and urging itself upon you.
 O submit yourselves to it!
-Do so now, that you may not eventually too late behold him,
+Do so _now,_ that you may not eventually too late behold him,
 whom you have pierced with your sins.
 Lay hold on love, lest wrath lay hold on you--lay hold on love, while it is yet at hand!
 
@@ -1081,13 +1087,13 @@ who watch for our treasure, are everywhere in ambush;
 we must therefore be constantly upon our guard, and pray,
 from the hymn we have just now sung,
 
+[verse]
+____
 O make us watchful, night and day,
-
 To guard with care love`'s precious prize;
-
 Lest to those hellish hosts it fall a prey,
-
 Which, from the pit, with might against us rise!
+____
 
 We are apt to think this is a needless caution,
 and that we shall take good care of ourselves;
@@ -1113,7 +1119,7 @@ and along with it everything that is good in time and eternity.
 Christ loves us, he loves all of us; what then are we doing; why should we despond;
 why are we still asleep?
 
-Christ loves you, you youthful souls,
+Christ loves you, you _youthful souls,_
 who in your blooming years are seeking something to love.
 Ah, how would I grieve, how would the Savior grieve,
 if you allowed yourselves to be captivated by a false and deceitful love!
@@ -1129,7 +1135,7 @@ for him alone has the noble inclination to love been so deeply implanted in your
 O, if you rightly knew what it is to be found in Christ and his love,
 you would certainly become enamored of and captivated by his incomparable beauty!
 
-Christ loves you, you penitent, distressed, and fearful hearts, and you know it not,
+Christ loves you, you _penitent, distressed, and fearful hearts,_ and you know it not,
 you believe it not.
 Christ loves you of a truth; will you then continue in your despondency?
 Ought not this joyful message to inspirit you?
@@ -1141,7 +1147,7 @@ scepter was extended to her and the king embraced her.
 Come then you fearful souls,
 and you shall experience that your lot will not fall out less favorably than hers.
 
-Christ loves us--all who, with myself, are partakers of the heavenly calling.
+Christ loves us--all who, with myself, are _partakers of the heavenly calling._
 Ought we not therefore to awake out of sleep, to lift up the eyes of our hearts,
 to love Christ in return, and to walk in his ways with the utmost alacrity?
 What an honor people esteem it when they are beloved by a king or a prince,
@@ -1166,18 +1172,14 @@ Is it the mature determination of our hearts?
 Come then, and let us give the hand of our hearts to Jesus, who is present with us,
 and say in the spirit of true devotion,
 
+[verse]
+____
 Yea and amen with my whole heart,
-
 Lord, I devote myself anew;
-
 Willing with all, for you, to part,
-
 And swear to be forever true!
-
 Your lovely name will I confess,
-
 Whate`'er a scoffing world may say;
-
 And trust your covenant faithfulness,
-
 To own me in the last great day.
+____

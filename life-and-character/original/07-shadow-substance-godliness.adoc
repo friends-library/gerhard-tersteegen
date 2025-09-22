@@ -1,7 +1,8 @@
 [short="The Shadow and Substance of Godliness"]
 == On the Shadow and Substance, Form and Power of Godliness, in a Letter to a Friend
 
-Having the form of godliness, but denying its power. 2 Timothy 3:5.
+[.blurb]
+=== "`Having the form of godliness, but denying its power.`" 2 Timothy 3:5.
 
 My dear friend,
 
@@ -20,7 +21,7 @@ however secretly or subtly this may take place, we do not walk in simplicity;
 it is falsehood, and not truth; or at least it is something assumed and dissembled;
 a shadow and not the substance--an abomination in the sight of God.
 
-It is not only wrong to show ourselves better than we are,
+It is not only wrong to show ourselves _better_ than we are,
 but it is an improper affectation, nay,
 often a vain desire of being better thought of when we represent ourselves,
 whether in words or otherwise, to be poorer, more miserable,
@@ -203,7 +204,11 @@ However, no one dies with Christ, who is not crucified with him.
 "`Yea, O Lord! whatever may be called true goodness, virtue, holiness, is all your work,
 and a free gift of grace.
 
-My heart, without your power and grace,No real good can e`'er possess.
+[verse]
+____
+My heart, without your power and grace,
+No real good can e`'er possess.
+____
 
 How easy it is to say this, but how much does it cost to learn to practice it,
 if we sincerely seek to acquire it,
@@ -474,7 +479,7 @@ and ready, at the least hint or consciousness of his operation, to be passive,
 and make room for him.
 
 "`O Lord, you all-sufficient and infinite Being, the supreme Being, the sole Being, yea,
-more than Being; You alone can say with effect, I am;
+more than Being; You alone can say with effect, _I am;_
 and this '`I am`' is so unlimited and undoubtedly true, that no oath can be found,
 which places the truth more beyond all doubt,
 than when this word proceeds from your mouth, '`I am.`' '`I live.`'
@@ -492,7 +497,7 @@ I had rather that I were not, and that all things were not, than that you should
 
 "`Yet what am I, and what are all things?
 Am I in reality, and is all in reality?
-What is this I? What is this all?
+What is this _I_? What is this all?
 We are only because you are, and because you will that we should be;
 poor diminutive beings, that in comparison with you, and in the presence of your Being,
 are a form and a shadow, and not worthy to be called a being.
@@ -530,7 +535,7 @@ Self pervades me; I am utter selfishness;
 all my outward and inward motions are selfishness; all my virtues as, proceeding from me,
 are selfish and impure in your sight.
 
-"`O that I might be no more, nor have any longer in myself, either life,
+"`O that I might be no more, nor have any longer _in myself,_ either life,
 or understanding, or will, or thought, or any other motion; and that you, my God,
 my Jesus, might be and work all in me!
 Let that, O Lord! which you yourself do not speak and work in me,

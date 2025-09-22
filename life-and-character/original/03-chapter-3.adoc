@@ -174,13 +174,14 @@ At one, they again resumed their labor, which continued till six in the evening,
 after which they were at liberty, and spent again an hour in private prayer;
 a mode of life which lasted about three years.
 Tersteegen employed his leisure time in the translation of edifying works;
-such as The Compendium of True Godliness, and The Hidden Life with Christ in God, etc.,
+such as [.book-title]#The Compendium of True Godliness,#
+and [.book-title]#The Hidden Life with Christ in God, etc.#,
 // lint-disable invalid-characters
 by the eminently pious Bernières de Lauvigny.
 About this time also he wrote The Pious Lottery,
-and prepared materials for The Spiritual Flower Garden.^
+and prepared materials for _The Spiritual Flower Garden_.^
 footnote:[In 1724, when he instructed the children of his brother and sister,
-he wrote for their use, "`An impartial sketch of the principles of christianity.`"
+he wrote for their use, __"`An impartial sketch of the principles of christianity.`"__
 This little work he never published,
 but its value may be inferred from the following circumstance.
 A pious reformed minister saw this tract after the decease of its author.
@@ -322,6 +323,9 @@ as well as his powerful manner of interceding in prayer,
 remained indelibly impressed upon their hearts.
 He gave the following account of the above-mentioned journey to an intimate friend.
 
+[.embedded-content-document.letter]
+--
+
 I have allowed myself to be induced to accept the
 unremitting invitations of an aged couple,
 who reside about twenty miles distant from this place,
@@ -364,7 +368,10 @@ the customary food no longer suffices them.
 He that has grace to pray,
 may well entreat the Lord of the harvest to send forth laborers into his harvest.
 
+[.signed-section-context-close]
 Oct. 3, 1747.
+
+--
 
 After public speaking had been for some time discontinued, about the year 1750,
 a young student at Duisburg was awakened, who held meetings at Spelldorf, Styrum,
@@ -378,6 +385,9 @@ through sincere repentance, faith in our Lord Jesus Christ; and by his grace,
 have continued steadfast to the present hour.
 The accounts which he gave about this time,
 in confidence to a female friend on different occasions, deserve to be noticed here.
+
+[.embedded-content-document.letter]
+--
 
 I have been +++[+++says he]
 for some days again rather unwell; and think it proceeds from the cold I caught,
@@ -399,10 +409,16 @@ One thing I know, that were I to follow my own inclination,
 I would rather withdraw from it entirely, if I found myself at liberty to do so.
 The Lord direct us in all things!
 
-Jan.
-14th, 1746.
+[.signed-section-context-close]
+Jan. 14th, 1746.
 
+--
+
+[.offset]
 In another letter, he says,
+
+[.embedded-content-document.letter]
+--
 
 There is, God be thanked, a great awakening and stir among the people here:
 for some weeks together, from morning to night,
@@ -450,10 +466,16 @@ asking him how he expected to reflect upon these things on his deathbed.
 In short, the Mayor, as well as the other magistrates gave way,
 and acknowledged that I was in the right.
 
-Jan.
-1st. 1751
+[.signed-section-context-close]
+Jan. 1st. 1751
 
+--
+
+[.offset]
 On another occasion he writes,
+
+[.embedded-content-document.letter]
+--
 
 The awakening here, and at other places still continues.
 More are added from time to time, and I am obliged to devote myself,
@@ -527,9 +549,16 @@ in the midst of every disturbance and distraction from without,
 than I could even have expected; but of any sensible emotion, I can say nothing;
 I sometimes live as if I were dead.
 
+[.signed-section-context-close]
 February 23, 1751.
 
+--
+
+[.offset]
 He writes further as follows.
+
+[.embedded-content-document.letter]
+--
 
 Since my last, the people scarcely ever let me rest.
 I try occasionally to withdraw myself by force, but it is of no avail.
@@ -551,9 +580,16 @@ Were the meetings to take place regularly, we should not be able to find suffici
 Between both, I am either engaged in receiving visits,
 or in writing to friends at a distance.
 
+[.signed-section-context-close]
 April 9th, 1751.
 
+--
+
+[.offset]
 In another he says,
+
+[.embedded-content-document.letter]
+--
 
 Such strange events have occurred since my last, that I have been unable, before today,
 to reply to your agreeable letter of the 9th of July.
@@ -584,9 +620,16 @@ I keep myself quiet, nor indeed did I go to the magistrates on my own account,
 or because they sent for me; but voluntarily, and to prevent the evil,
 that was preparing for others.
 
+[.signed-section-context-close]
 August 20th, 1751.
 
+--
+
+[.offset]
 In a subsequent letter to the same individual, he says:--
+
+[.embedded-content-document.letter]
+--
 
 I have still something singular to relate.
 The day after I forwarded my last, the friends at C+++______+++,
@@ -610,6 +653,8 @@ as much as the hearers, all will be well.
 The people were deeply affected, and some so much so,
 that it is to be hoped the impressions will be lasting.
 
+--
+
 From the time that the number of those who were awakened,
 and such as hungered after the bread of life so much increased,
 our departed friend was again induced to speak in public.
@@ -623,9 +668,13 @@ Upon which, the inquiry for them was so great,
 that eight writers stationed themselves upstairs, where they could hear distinctly,
 and wrote down the words from his lips.
 By this means, thirty of his discourses have been collected,
-which were subsequently published under the title of Spiritual Fragments (Geistliche
-Brosamen.) The following letters give some account of the many discourses he delivered,
+which were subsequently published under the title
+of [.book-title]#Spiritual Fragments (Geistliche
+Brosamen.)# The following letters give some account of the many discourses he delivered,
 and the visits he had to receive at that period.
+
+[.embedded-content-document.letter]
+--
 
 Up to the present moment +++[+++says he]
 I can scarcely use my head or my eyes, and my hand trembles very much;
@@ -665,7 +714,13 @@ the guidance and influences of his Holy Spirit,
 who in due time would lead them to the true temple of God,
 where they might substantially clasp the Savior in the arms of their spirits!
 
+[.signed-section-context-close]
 March 20th, 1753.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 I contemplated the approach of Christmas with anxious feelings,
 being fearful of receiving many visits,
@@ -711,6 +766,9 @@ and support me by your intercessions, and your faithful walk with God.
 But still I must say, my dear friends, that some among you, during the past year,
 have often grieved me to the heart, and discouraged me: that was not right;
 may the Lord atone for it!`"
+
+--
+
 These last words touched some of them to the quick,
 who afterwards came to ask forgiveness.
 
@@ -735,7 +793,7 @@ in some degree, in a situation to become better acquainted with his peculiar gif
 the distinguished grace which was imparted to him,
 and the spirituality of his views and sentiments.
 His writings, and particularly his discourses,
-printed under the title of Spiritual Fragments,
+printed under the title of [.book-title]#Spiritual Fragments,#
 in which the reader is not long detained with the shell of human wisdom,
 but is immediately presented with the kernel,
 sufficiently show how greatly his understanding was enlightened,
@@ -775,7 +833,7 @@ O what a treasure it is, to set aside all spiritual light, and the gifts of grac
 in order solely to know that God is what he is; it is indeed eternal life to know him!
 The desire of men to know much, even in spiritual things,
 is a powerful proof that they know not God in reality.
-God is in every way all-sufficient;
+God is in every way _all-sufficient;_
 he alone can satisfy and rejoice the capacious powers of the soul,
 and that entirely and eternally.`"
 
@@ -783,6 +841,9 @@ It cannot be otherwise than agreeable to the reader,
 when the following extracts from certain letters
 of our departed friend are laid before him,
 as obvious testimonials of his superior experimental knowledge.
+
+[.embedded-content-document.letter]
+--
 
 I have at present to inform you, that it has pleased the Lord to visit me with sickness.
 In the beginning of my disorder, I lay and sat as if stupified, without feeling,
@@ -794,7 +855,13 @@ so that it is therefore true, that God, and what is in him, and all his works an
 is the proper food and happiness of a created spirit.
 In him is all my treasure.
 
+[.signed-section-context-close]
 February 1st, 1746.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 We know that God is alone supremely good;
 that he bears with his creatures and his children in Christ,
@@ -821,7 +888,13 @@ I leave it to him, be it as it may.
 It is of little importance how it is, if it only be as God pleases.
 I neither can nor will depend on anything except on him alone.`"
 
+[.signed-section-context-close]
 February 9th, 1748.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 If I were to explain to you how I feel in my weak state, I would say, I do not know;
 and was perhaps never less conscious of it.
@@ -836,7 +909,13 @@ and causes every difficulty to disappear immediately.
 How ought we to rejoice that he is such a God, that he is all goodness, perfect,
 infinitely glorious and happy, and sufficient to make everything in us good and happy.
 
+[.signed-section-context-close]
 March 8th, 1748.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 How wonderful, how incomprehensible are the ways of God!
 How contrary to our expectations!
@@ -860,7 +939,13 @@ That this may be the case with us, is my sincerest wish.
 Pray also for me, my dear sister, and beg the rest of your family to do so likewise,
 for I have need of it.
 
+[.signed-section-context-close]
 October 22nd, 1751.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 I am lost in adoration,
 when I reflect that God has selected such a way to eternal felicity,
@@ -896,7 +981,13 @@ but in Jesus there is abundance of everything we need.
 How true this is! and yet it is only known in the
 degree in which the former is in reality felt.
 
+[.signed-section-context-close]
 8th March, 1754.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Hitherto has the Lord helped me! and his help hitherto encourages
 me to hope that he will help me to the end.
@@ -920,7 +1011,13 @@ The Lord himself tune our hearts to praise him, and to glorify him in all our ac
 I feel that more of my heart remains with you than before;
 and that bodily absence does not, and cannot part us.
 
+[.signed-section-context-close]
 July 5th, 1754.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 I cannot express to you, my dear sister,
 how more than ever worthless and contemptible this life,
@@ -939,12 +1036,15 @@ on whom I can reflect with joy and gratitude to God.
 He is lovely in himself, and lovely in his children.`"
 (Ps. 16:2)
 
+[.signed-section-context-close]
 November 1st, 1754.
+
+--
 
 His views of the evangelical truths which belong to the economy of human redemption,
 were as pure as his insight and experience were great.
 To be convinced of this, it is only necessary to peruse in connection, his writings,
-particularly The way of Truth, with an impartial mind.
+particularly [.book-title]#The way of Truth,# with an impartial mind.
 Even on the outset of his conversion, he contemplated the fundamental truths of religion,
 in a pure and scriptural light.
 Of this, the following are proofs.
@@ -967,7 +1067,7 @@ I could once more proclaim to all the world, that God alone is the fountain of l
 and that there is no other way to find and enjoy him,
 than the narrow way of inward prayer, self-denial, and a life hid with Christ in God,
 opened out to us, and consecrated by the death of the Savior.`"
-Many of his hymns in The Spiritual Flower Garden
+Many of his hymns in [.book-title]#The Spiritual Flower Garden#
 show that the sentiments and views of the author,
 and the ground of his faith were pure and unadulterated.
 
@@ -988,6 +1088,9 @@ even when it was ill received.
 He wrote as follows to a Reformed minister, whom he had cautioned against the Moravians,
 but which caution the latter had taken amiss:
 
+[.embedded-content-document.letter]
+--
+
 Ought I to speak otherwise than I feel, as is now so much the custom?
 I have re-perused and examined the letter (namely,
 that which he had written to the minister) in the presence of God, but I neither can,
@@ -1000,6 +1103,8 @@ by such shameful infidelity, as the giving up,
 or departing a hair`'s breadth from the dear deposit of that truth,
 which you have committed to me, out of weakness or hypocrisy,
 because this or the other good man, or set of people were opposed to it.
+
+--
 
 He could be thus confident in the expression of his sentiments on subjects of this nature,
 because a peculiar gift of trying the spirits was granted him.
@@ -1075,6 +1180,9 @@ brought on an unpleasant correspondence with a friend of his, a Reformed ministe
 in the North of Germany, who stood in connection with that sect;
 he wrote to him under date, 6th of March, 1750, among other things, as follows:
 
+[.embedded-content-document.letter]
+--
+
 I believe that the sect of the Moravians is not agreeable in the sight of God;
 I believe that of them which I mentioned to you personally,
 and what I have written to you regarding them.
@@ -1120,12 +1228,17 @@ and find favor with men of understanding,
 they must humbly and openly confess and retract their errors and mistakes,
 and entreat forgiveness for the offense they have caused.
 
+--
+
 He notwithstanding let the Moravians see his impartiality
 towards those who were converted to the truth,
 to whatever denomination they might belong.
 On an important occasion, in the year 1741,
 he felt himself induced by the community above-mentioned, who much courted his attention,
 briefly to express this impartiality in a letter, of which the following is an extract:
+
+[.embedded-content-document.letter]
+--
 
 My sentiments and my religion are these, that as one who is reconciled to God,
 through the blood of Christ, I allow the spirit of Jesus, by means of mortification,
@@ -1149,6 +1262,8 @@ the Moravians from the rest of the children of God;
 nor do I by any means, accord with them in it.
 It grieves me much, that there are already so many divisions in the religious world;
 but I am much more grieved when new divisions are created.
+
+--
 
 This impartiality Tersteegen invariably manifested.
 Being once interrogated by one of the three pious Reformed ministers,
@@ -1191,6 +1306,9 @@ defends us from a variety of evils, and graciously supports us under all our tri
 He lived at the same time, in habitual dependance on God and his guidance,
 as is evident from the following letter:
 
+[.embedded-content-document.letter]
+--
+
 May the divine promise, "`I will hedge up your way with thorns, and make a wall,
 that she shall not find her paths,`" (Hosea 2:6) be fulfilled in our experience!
 Let us rather suffer a thousand afflictions with God, than walk in our own way,
@@ -1221,10 +1339,17 @@ from which I am most preserved, when most unable to do anything of myself.
 I will then be gladly weak, in order not to run without God,
 that his power and glory may be perfected in my nothingness.
 Thanks, and praise, and adoration unto our God, who is our faithful guide,
-and who causes us to become more and more attached to the salutary truths of our nothingness,
+and who causes us to become more and more attached to the salutary
+truths of our nothingness,
 and his all sufficiency!
 
+[.signed-section-context-close]
 January 15th, 1745.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 May Jesus, himself,
 by his Spirit guide us into the way of all truth!
@@ -1239,7 +1364,13 @@ will lead us entirely right, although it may not appear to us to be so;
 and that we soil and spoil everything when we do not rely wholly upon him,
 and are desirous of guiding ourselves by our own light and wisdom.
 
+[.signed-section-context-close]
 January 14th, 1746.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 I wish to be found faithful and not slothful in that
 which the Lord gives me to see he requires of me.
@@ -1269,7 +1400,13 @@ to the infinite praise and glory of our God, who has called us,
 and permitted us to meet in this land of exile.
 Amen, Jesus!
 
+[.signed-section-context-close]
 August 3rd, 1753.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 How quietly I can sit down, when my work is done!
 What then will that rest be, which we shall eventually enjoy!
@@ -1292,7 +1429,8 @@ He is a buckler to them that walk uprightly.`"
 is itself sufficient to rejoice the heart; what then,
 will the progress and termination do?
 It is a dangerous temptation of the adversary when upright minds allow themselves to
-be completely cast down by the unbelieving (I had almost said proud) view of their infirmities,
+be completely cast down by the unbelieving (I had almost said proud)
+view of their infirmities,
 in the performance of good works; such characters ought only to plead guilty,
 humble themselves, and go forwards.
 He who loves and exercises prayer will, in due time,
@@ -1313,10 +1451,17 @@ O this is so exceedingly true!--yet he who does not
 seek after communion with God through prayer,
 cannot properly understand it.
 
+[.signed-section-context-close]
 March 11th, 1755.
 
+--
+
+[.offset]
 He also resigned himself entirely to God.
 On this subject he writes as follows:
+
+[.embedded-content-document.letter]
+--
 
 I cannot say much of myself, for it is a subject too dark for me; I leave it all to God.
 I am constantly obliged to write, speak, and do much,
@@ -1336,7 +1481,13 @@ on the contrary I possess a very tender,
 but at the same time general impression of the infinite goodness and loveliness of God,
 yet still the relish of it is not afforded me.
 
+[.signed-section-context-close]
 February 27th, 1742.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Jesus, close our eyes in life and death,
 that we may no longer contemplate ourselves and what regards us,
@@ -1345,7 +1496,13 @@ assenting willingly and sincerely to our own nothingness, and thus,
 in the artless carelessness of faith, live and die with you and in you!
 Amen.
 
+[.signed-section-context-close]
 August 29th, 1741.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 The more that soul and spirit are divided asunder
 by the quick and powerful word of God (Heb. 4:12),
@@ -1358,7 +1515,13 @@ I experience that he is unspeakably kind to me in all things.
 I occasionally perceive that my mind is at peace,
 but at other times I am not aware of it, and must make myself content.
 
+[.signed-section-context-close]
 January 25th, 1748.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 As long as union with God is sensible, the communication is only made through the senses.
 I find myself so weak and destitute, that with regard to myself,
@@ -1378,7 +1541,13 @@ and all I am and have, quietly into his hands.
 May he be loved and glorified to all eternity!
 Amen.
 
+[.signed-section-context-close]
 November 4th, 1742.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 I wish you much grace, to enable you, with a childlike spirit,
 to forget and forsake yourself, in order that you may be received in and by the Lord,
@@ -1395,7 +1564,13 @@ May all such as are in circumstances of trial and affliction, feel persuaded of 
 O Lord! grant this to them, and grant it to us all until the end!
 Amen.
 
+[.signed-section-context-close]
 May 8th, 1753.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 See, my dear sister, does not the Lord do all things well?
 Does he not deal with me gently, and like a father?
@@ -1412,7 +1587,13 @@ In my present weak condition, I have no sensible, inward communication,
 and occasionally do not often think of myself, yet God be praised,
 I am pretty well and tranquil in him.
 
+[.signed-section-context-close]
 May 20th, 1755.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 I am singularly circumstanced, even more so than I am conscious of myself,
 or am able to express, and perhaps it were better,
@@ -1454,9 +1635,16 @@ may sing with your handmaid Hannah, "`There is none holy but the Lord,
 for beside him there is none else.`"
 (1 Samuel 2:2) Amen.
 
+[.signed-section-context-close]
 July, 1747.
 
+--
+
+[.offset]
 He tranquillized his mind on all occasions in the all-wise and good pleasure of God:--
+
+[.embedded-content-document.letter]
+--
 
 This is my endeavor without fatiguing myself,
 that I may rest in my own nothingness and poverty, as I feel them at the moment,
@@ -1468,7 +1656,13 @@ did I continue to entertain such thoughts; but the Lord be praised,
 that he does not allow me to do so long, and often awakens in me a secret satisfaction,
 at the thought of what he is, and that he alone is good.
 
+[.signed-section-context-close]
 October 11th, 1746.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 All that is within me inclines to retirement, tranquillity, dormancy of imagination,
 and unity in and with God.
@@ -1504,7 +1698,13 @@ O then, let us go forward, relying solely on his grace,
 with the simplicity of little children, and doing to the Lord what our hand finds to do,
 without having much regard to ourselves or our own doings!
 
+[.signed-section-context-close]
 October 5th, 1748.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 I wish to live and to suffer, according to the will of God.
 I can remember the time, when I could suffer, so to speak, with the courage of a hero;
@@ -1531,10 +1731,16 @@ that we may serve you in a worthy manner, and not by cleaving to ourselves,
 be deprived of you and of your heavenly peace!
 Amen!
 
+[.signed-section-context-close]
 August 14th, 1750.
+
+--
 
 Our departed friend had, at the same time, a firm confidence in God;
 to this the following letters bear testimony:
+
+[.embedded-content-document.letter]
+--
 
 I continue to live internally on divine grace.
 I feel I must do nothing, and desire nothing, and letting God do as seems him good,
@@ -1553,7 +1759,13 @@ and then he again conceals his way with us and his purposes towards us from our 
 in order to simplify and cleanse us, and excite us to regard nothing but him,
 and to resign ourselves more entirely into his hands.
 
+[.signed-section-context-close]
 December 3rd, 1745.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 All truth we shall experience to be truth, according to our measure of faith,
 and the gracious purposes of God in Christ towards us.
@@ -1580,7 +1792,13 @@ and he will work in us that to which we are called.
 Blessed be his name to all eternity!
 Amen.
 
+[.signed-section-context-close]
 November 17th, 1750.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Methinks the child Jesus kindly invites us to come to him, showing us his fulness,
 and asking, if we cannot find enough in him.
@@ -1609,7 +1827,13 @@ forget myself; for this is also not in my own power.
 You understand me well, and will not forget, with the other dear children of God,
 to remember me before the Lord, of which I stand so much in need.
 
+[.signed-section-context-close]
 December 31st, 1753.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 I am weak, but the Lord is mighty, and can manifest himself within us, as such,
 at his pleasure.
@@ -1619,11 +1843,17 @@ I am!
 O that we might look alone unto him, and forever seek in him our delight,
 and our true and only rest!
 
+[.signed-section-context-close]
 August 10th, 1753.
+
+--
 
 The magnitude of the riches which Tersteegen found in God,
 was equalled by the poverty he found in himself.
 This is evident from many of the preceding letters, and likewise from the following:
+
+[.embedded-content-document.letter]
+--
 
 I do not know how it stands with me.
 God allows me to retain nothing on which I can place dependance; I mean to say,
@@ -1642,7 +1872,13 @@ that you and others pray for me.
 I am looked upon as quite another person, to what I am in reality--God knows it.
 May he overrule all things to his glory!
 
+[.signed-section-context-close]
 August 15th, 1749.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 I cannot say otherwise than that the Lord has been good to me, and that he is so still,
 in continually granting me grace to overlook and forget myself, as a thing of no use;
@@ -1661,7 +1897,13 @@ then his bowels yearn, even towards the most miserable.
 Glory be ascribed unto our God forever and ever.
 Amen!
 
+[.signed-section-context-close]
 December, 3rd, 1751.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Ah, my dear sister!
 I am not in possession of that which you suppose me to be; and when I have it,
@@ -1687,7 +1929,13 @@ Alas!
 The power and the riches of the merits of the blood of Jesus are
 seldom recognized in the manner in which they ought to be!
 
+[.signed-section-context-close]
 November 1st, 1754.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 It is incredible how soon we begin to rely, in some degree upon ourselves,
 in seasons of light and strength, and sensible communication; and it is this,
@@ -1703,7 +1951,13 @@ while rejoicing in our own nothingness and his all-sufficiency.
 We ought therefore, without delay, to forsake ourselves,
 in order that by thus forgetting ourselves, we may obtain true rest and peace.
 
+[.signed-section-context-close]
 January 10th, 1755.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 Our mutual union and fellowship in spirit makes amends for that interruption,
 which has for awhile taken place in our correspondence.
@@ -1758,7 +2012,10 @@ we must give the honor and glory alone to our God, through Jesus Christ!
 Yea, amen, O Lord, for yours is the kingdom, and the power, and the glory,
 forever and ever, Amen!
 
+[.signed-section-context-close]
 September 12th, 1755.
+
+--
 
 His poverty of spirit enabled him to walk in unfeigned humility.
 By means of his discourses and writings, he was undoubtedly a blessing to many;
@@ -1831,10 +2088,13 @@ In this respect he would gladly have done still more; but his weak state of body
 and other circumstances, did not admit of it.
 What he says upon this subject, in a preface to one of his hymns, is very remarkable.
 
+[.embedded-content-document.letter]
+--
+
 During my short career, I have, through grace,
 experienced many favors at the hands of God, while under the cross,
 and have been taught many great things concerning him.
-Observe, I say through grace.
+Observe, I say _through grace._
 I therefore, twenty years ago, had the intention of composing before my decease,
 a hundred thanksgiving hymns,
 as a sacrifice of praise to God for the mercies he has shown me,
@@ -1847,6 +2107,8 @@ in which I may fulfill my vows unto God, and offer up unto him,
 with all the glorified saints, more than a hundred-fold tribute of praise.
 Amen.
 Hallelujah!
+
+--
 
 He once said to a friend,
 that he had invariably received the greatest blessings
@@ -1922,7 +2184,7 @@ When seized with the most acute pains, he endured them with so much resignation,
 that it was scarcely to be observed that he was suffering under them.
 In the exercise of patience, he manifested such fortitude,
 that during a violent toothache, he once said he had need of patience,
-and yet sang the hymn, Venture Boldly, etc.
+and yet sang the hymn, _Venture Boldly,_ etc.
 
 A friend relates the following instance of his patience, forbearance,
 and compassion with the fallen.
@@ -1975,6 +2237,9 @@ this fact will be substantiated by the following instances.
 He wrote the subjoined letter to a friend at a distance,
 who had attacked him with much bitterness:
 
+[.embedded-content-document.letter]
+--
+
 Cease in future, to attack a brother in the manner you have done,
 or to desire that he should be ashamed in the presence of Christ,
 on account of things which never entered into his mind.
@@ -2000,6 +2265,8 @@ and all my glory, let it please you that my brother may see for his consolation,
 that your countenance does not convict me of that, which his pen lays to my charge.
 Fill his heart with grace and peace, and bless him eternally!
 Amen.
+
+--
 
 The year before, being in Holland, a person of high rank invited him to be his guest.
 This individual imagined himself to have attained to a state of peculiar inward peace,
@@ -2035,13 +2302,18 @@ A certain individual once desired he would send for a pious lady,
 who lived at a distance, and who wished to become acquainted with him,
 upon which he sent the following reply, dated September 19th, 1766.
 
+[.embedded-content-document.letter]
+--
+
 Sister N+++______+++ is one of those whom I most love and esteem in H+++______+++;
 she has a noble and inquiring mind, but I cannot invite her here;
 for the case was very different at the time when I sung,
 
+[verse]
+____
 You know how I rejoice to see
-
 The souls that give themselves to you.
+____
 
 I lived at that time incognito, even when I was accidentally in company, and loved,
 as it were at a distance, without giving way to it; nothing being expected from me.
@@ -2056,7 +2328,13 @@ Ah, our fellow creatures are often a hindrance to us, and we to them!
 My maxim still is, "`to be glad to enjoy the society of the children,
 but much more so that of the Father.`"
 
+--
+
+[.offset]
 He wrote to the same individual, under date April the 3rd, 1767, as follows:
+
+[.embedded-content-document.letter]
+--
 
 This week I have already had four visitors from the duchy of Berg;
 and a friend from S+++______+++, who has the right aim in view, has been here some days.
@@ -2071,6 +2349,8 @@ and grant us true fidelity in the exercise of earnest prayer and inward retireme
 in order that we may give place to the divine operation and influences,
 from where we must derive our strength, and life, and being, wholly and solely,
 both in adversity, and prosperity.
+
+--
 
 And on another occasion, "`O God, what advantages do those possess,
 who have nothing else to think of but themselves and you;
@@ -2093,6 +2373,9 @@ and on the contrary, that the name of Jesus might be impressed on every heart.`"
 We subjoin another remarkable passage in a letter he wrote to a Moravian friend,
 who accused him of sectarianism:
 
+[.embedded-content-document.letter]
+--
+
 I hope I have never shown, during all the years of my calling,
 that I sought to form a party, or to obtain followers.
 To this moment, I continually hear complaints from far and near,
@@ -2112,7 +2395,10 @@ and let me live despised and forgotten, alone with you!
 For I know, and can appeal to you for the truth of the assertion, I know that you,
 O my God! are alone sufficient for me.
 
-March 6th, 1750.
+[.signed-section-context-close]
+March 6th, 1750
+
+--
 
 But notwithstanding his attempts to escape the attachment of his fellow creatures,
 the widely diffused radiance of his godliness and his superior gifts,
@@ -2200,6 +2486,9 @@ and sometimes the whole of it with them.
 We adduce only one instance, of which he gave an account with his own hand to a friend,
 respecting a dear sister in Christ, whom he visited in her last illness:
 
+[.embedded-content-document.letter]
+--
+
 While at dinner on Thursday,
 I was suddenly called away to +++______+++. The attack passed off in a few hours.
 I stayed the whole night with her, and reflected on her dissolution;
@@ -2232,6 +2521,8 @@ that one cannot think of it without admiration and thanksgiving,
 and the serenity of her mind, and unshaken confidence in God to the end,
 continues to be a great and continual consolation to me.
 Glory be to God, that gave it all!
+
+--
 
 In this manner Tersteegen revived and comforted many sick and dying persons,
 and was made instrumental to their consolation, support and edification,

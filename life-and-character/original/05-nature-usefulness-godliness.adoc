@@ -1,10 +1,7 @@
 == On the Nature and Usefulness of True Godliness.
 
-Godliness is profitable for all things, having the promise of the life that now is,
-and of that which is to come.
--1 Tim. 4:8.
-
-=== I. On True Godliness.
+[.blurb]
+=== Godliness is profitable for all things, having the promise of the life that now is, and of that which is to come. 1 Tim. 4:8.
 
 It is a very lamentable thing, that in these our last, dark, and corrupted times,
 godliness, piety, or the true service of God,
@@ -31,12 +28,14 @@ and I should esteem myself happy to learn of them and to read in them,
 as living epistles written by the Spirit of God, (2 Cor. 3:2-3) something of that,
 concerning which I esteem myself too mean and unworthy to write with ink.
 
+=== I. What True Godliness Cannot Be
+
 In order to form to ourselves an idea of the nature, quality,
 and essence of true godliness, or describe a real godly man,
-it is only reasonable that we do not direct our thoughts first to such things which
+it is only reasonable that we do not direct our thoughts _first_ to such things which
 the hypocrite and the ungodly can have in common with those that are really godly;
-nor, secondly, to anything which the godly alone, but only some of them possess; nor,
-lastly, to something which they may all,
+nor, _secondly,_ to anything which the godly alone, but only some of them possess; nor,
+_lastly,_ to something which they may all,
 but not at all times possess--but we must seek for such properties,
 which the truly pious alone, and all of them, and at all times, solely possess.
 This is so evident that no one can deny it.
@@ -106,7 +105,7 @@ but not at all times.
 All the pious, or most of them, often experience spiritual and divine consolations,
 peace, sensible delights, sweetness, occasional assurances,
 and various other divine communications and gifts of grace.
-I say they experience such things frequently but not at all times or without variation,
+I say they experience such things _frequently_ but not at all times or without variation,
 from which follows, that the substance of true godliness cannot consist in these things.
 
 And therefore those act, in my opinion, imprudently, who,
@@ -159,7 +158,7 @@ footnote:[The author alludes to a tract of his,
 entitled "`The Manual of True Godliness,`" which appeared in 1727,
 and contains many useful instructions.]
 
-II.
+=== II. The Nature of True Godliness
 
 We have hitherto taken a view of that which may be regarded as godliness or piety,
 and in fact is so by most men, which nevertheless, can by no means,
@@ -172,7 +171,8 @@ For they are the things of the Spirit of God, which the natural man cannot under
 May the Spirit of God himself enlighten our understandings with his truth,
 and powerfully draw our hearts to obedience!
 
-True godliness (eusebeia) is that inward state or disposition,
+// lint-disable invalid-characters
+True godliness (ευσέβεια) is that inward state or disposition,
 which is wrought by the Holy Spirit, and the occupation of the soul,
 which springs from it,
 by which she again renders that homage and worship to the triune God,
@@ -258,7 +258,8 @@ and its whole affection from itself and all that is not God,
 and to direct and fix it all upon this alone all-worthy object, to love him solely,
 and to cleave unto him with all the heart, and soul, and mind, and strength,
 and to love nothing out of him, which cannot be truly loved in him.
-The ungodly (asebes) and the godly (eusebes) stand, in scripture, in direct opposition.
+
+The ungodly _(asebes)_ and the godly _(eusebes)_ stand, in scripture, in direct opposition.
 An ungodly person is one who is detached from God,
 and cleaves to himself and the creature; a godly man is one,
 who is detached from himself and the creature, and adheres to God with all affection.
@@ -339,7 +340,8 @@ and produces a thorough change in the man, powerfully withdraws his heart, affec
 delight, and all the powers of his soul from all created things, attaches him to God,
 his origin, and translates him into a truly holy and divine life and walk.
 
-III.
+=== III. The Usefulness of True Godliness
+
 And ought not he, who is thus godly, to be blessed in God?
 Yea, he is truly blessed.
 He knows God and Jesus Christ, whom he has sent, which is eternal life.
@@ -511,7 +513,7 @@ and afflictions, would gradually become easy, nay even pleasant to a godly indiv
 nor would they be able to disturb his profound peace in God,
 if he only wisely learnt to place his strength, delight, welfare, and salvation,
 solely and wholly in God and his good pleasure.
-I say in God and his good pleasure alone, not in himself and his own doings,
+I say _in God_ and his good pleasure alone, not in himself and his own doings,
 not in his own ease and satisfaction; not in divine light, gifts, emotions, assurances,
 and the like; for all this may, and must be often concealed and taken away.
 But God and his will never move nor change.
@@ -560,4 +562,5 @@ resignation by forsaking all we have and are;
 that so we may be made godly and blessed in him in truth, both now and forever;
 which is the cordial wish, and most fervent prayer to the source of all goodness, of
 
+[.signed-section-signature]
 A sincere seeker after godliness.
