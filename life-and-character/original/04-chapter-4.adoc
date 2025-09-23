@@ -103,7 +103,7 @@ Samuel Jackson
 ==== May the grace of God in Jesus Christ, reign in our souls, through the influences of the Holy Spirit! Amen.
 
 [.salutation]
-Dearly beloved brother in the triune God, and my fellow pilgrim;
+Dearly beloved brother in the triune God, and my fellow pilgrim:
 
 The love with which the Lord has graciously united us together in him,
 and which can therefore neither be strengthened nor weakened by bodily presence or absence,
@@ -231,7 +231,7 @@ Your loving brother in Jesus.
 === Letter 2
 
 [.salutation]
-Dearly beloved brother in the grace of Jesus Christ;
+Dearly beloved brother in the grace of Jesus Christ:
 
 "`We are the Lord`'s.`" From that very moment, when in sincerity of heart,
 we surrendered ourselves to him, we belong to him, with all that we are,
@@ -314,7 +314,7 @@ May Jesus live and glorify himself in you!
 === Letter 3
 
 [.salutation]
-My dear friend,
+My dear friend:
 
 The passage of scripture, which you have laid before me, "`This is life eternal,
 to know you the only true God,
@@ -411,7 +411,7 @@ Your affectionate friend and brother.
 === Letter 4
 
 [.salutation]
-Dearly beloved and valued friend in the grace of God;
+Dearly beloved and valued friend in the grace of God:
 
 Your letter of the 27th January, afforded me pleasure; for as I have known in my degree,
 through divine grace, both the unhappy condition of an unconverted sinner,
@@ -525,7 +525,7 @@ his sincere friend, and fellow-pilgrim.
 === Letter 5
 
 [.salutation]
-Dearly beloved brother in the grace of Jesus Christ.
+Dearly beloved brother in the grace of Jesus Christ:
 
 Your last letter of the 5th of this month, as well as the former ones,
 have been duly received.
@@ -665,7 +665,7 @@ Your affectionate friend and brother.
 === Letter 6
 
 [.salutation]
-Dearly beloved brother, in the grace of Jesus Christ.
+Dearly beloved brother, in the grace of Jesus Christ:
 
 Your kind letter, of the 2nd December, as well as the former one,
 of the 23rd of November, have both duly reached me, and I will now reply to them,
@@ -814,7 +814,7 @@ Amen.
 === Letter 8
 
 [.salutation]
-Dearly beloved brother in the grace of Jesus Christ,
+Dearly beloved brother in the grace of Jesus Christ:
 
 Although I am so slow in replying to your ever welcome letters,
 so that it would appear to proceed from indifference or the lack of esteem,
@@ -954,7 +954,7 @@ Your obliged fellow-brother.
 === Letter 9
 
 [.salutation]
-Dearly beloved friend in the grace of God,
+Dearly beloved friend in the grace of God:
 
 Your short letter by a friend, I have duly received, and was gratified by it;
 and although my time is limited, I will write something in reply, as you request,
@@ -1037,7 +1037,7 @@ Your affectionate friend.
 === Letter 10
 
 [.salutation]
-Beloved brother, in the grace of Jesus,
+Beloved brother in the grace of Jesus:
 
 Both your letters of the 25th of January and the 22nd of May, have come to hand.
 My ardent attachment to a hidden life with Christ in God,
@@ -1139,7 +1139,7 @@ Your very affectionate brother.
 === Letter 11
 
 [.salutation]
-Beloved brother in the grace of God,
+Beloved brother in the grace of God:
 
 I have lately been favored with your welcome letter by our dear friends,
 with whom I intend to forward the present,
@@ -1226,7 +1226,7 @@ To him be glory, forever and ever!
 === Letter 12
 
 [.salutation]
-Beloved friend and brother,
+Beloved friend and brother:
 
 I have for some time delayed replying to your agreeable letter of the 21st of March,
 because it is not without reason that I am afraid of entering upon a more extended correspondence;
@@ -1291,7 +1291,7 @@ Let us love him; for he has first loved us!
 ==== To a Noble Lady.
 
 [.salutation]
-Beloved sister, according to the high vocation of grace,
+Beloved sister, according to the high vocation of grace:
 
 Although I am weak and faint as it respects the body,
 yet the love of Christ constrains me to testify with a few lines,
@@ -1354,7 +1354,7 @@ Your ladyship`'s weak fellow servant in the Lord.
 === Letter 14
 
 [.salutation]
-Dearly beloved brother, in the grace of Jesus,
+Dearly beloved brother, in the grace of Jesus:
 
 I will see if I have time and ability to write a few words in answer to your question,
 for which however, a short letter will not suffice,
@@ -1506,7 +1506,7 @@ Yours in weakness,
 === Letter 15
 
 [.salutation]
-To +++______+++,
+To +++______+++:
 
 It is more and more apparent to me, that God loves your soul,
 and has his eye particularly directed towards you, to aid and preserve you,
@@ -1569,7 +1569,7 @@ Jesus!
 === Letter 16.
 
 [.salutation]
-Very dear and much esteemed sister in the grace of God,
+Very dear and much esteemed sister in the grace of God:
 
 Both your letters have arrived safe.
 From their contents, I have learned and considered, with much compassion,
@@ -1729,7 +1729,7 @@ I salute you with fraternal affection, and remain through grace.
 === Letter 17
 
 [.salutation]
-Dearly beloved brother,
+Dearly beloved brother:
 
 In the supposition that you are still at N+++______+++, I write these few lines, in haste,
 greeting you.
@@ -1783,7 +1783,7 @@ Amen!
 === Letter 18
 
 [.salutation]
-Much esteemed and dearly beloved sister in Jesus, whose Spirit be with your spirit!
+Much esteemed and dearly beloved sister in Jesus, whose Spirit be with your spirit:
 
 I have duly received your very welcome letter, and have perused with much union of heart,
 the precious truths it contains.
@@ -1858,7 +1858,7 @@ In tender affection, your obliged brother.
 === Letter 19
 
 [.salutation]
-Dearly beloved brother in the grace of Jesus,
+Dearly beloved brother in the grace of Jesus:
 
 Although we correspond but little by letter, yet I can say in simplicity before God,
 that I love you, and find myself united with you in spirit; as also,
@@ -2020,7 +2020,7 @@ I remain, through grace, etc.
 === Letter 20
 
 [.salutation]
-Dearly beloved sister in Jesus, the crucified and exalted Redeemer,
+Dearly beloved sister in Jesus, the crucified and exalted Redeemer:
 
 I have for some days past,
 felt myself impelled to write something to you regarding the present state of your soul.
@@ -2537,7 +2537,7 @@ Your affectionate fellow-laborer and brother.
 === Letter 22
 
 [.salutation]
-Dearly beloved brother in the grace of Jesus;
+Dearly beloved brother in the grace of Jesus:
 
 I have before me your favor of the 9th of March,
 in which you desire further explanation regarding something I said in my last.
@@ -2840,7 +2840,7 @@ Remember me as your weak brother.
 
 [.salutation]
 Beloved brethren, sisters, and friends, in the grace of God,
-whose names, I pray, may be found written in the book of life.
+whose names, I pray, may be found written in the book of life:
 
 In compliance with your repeated requests, I would gladly have visited you in person,
 that with the divine blessing,
